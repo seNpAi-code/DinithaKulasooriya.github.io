@@ -9361,7 +9361,7 @@
  }
  hr.star-light:after {
      color: #fff;
-     background-color: #18bc9c;
+     /* background-color: #18bc9c; */
  }
  hr.star-dark {
      border-color: #2c3e50;
